@@ -20,4 +20,4 @@ Mar 2019 – Present
 - Identifying potential customers, forming a sales pipeline, establishing business contacts, negotiating, developing relationships with customers together with sales staff.
 - Speaker of the School of Product Managers and Product Developers Humatheq from A1.
 - Participation in B2B sales of the portfolio of ICT products of the A1 data center: Colocation, IaaS based on VMware and KVM, BaaS, HaaS, SaaS solutions.
-- Consulting on products of world vendors Microsoft, Oracle, SAP, Kaspersky Lab, VMware, Veeam, Cisco, Citrix, HPE, DELL EMC, Huawei
+- Consulting on products of world vendors Microsoft, Oracle, SAP, Kaspersky Lab, VMware, Veeam, Cisco, Citrix, HPE, DELL EMC, Huawei.
