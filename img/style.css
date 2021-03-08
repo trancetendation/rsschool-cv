@@ -1,0 +1,71 @@
+.body {
+	color: white;
+	font-size: 15px;
+	margin: 0;  /*убираем лишние*/
+	padding: 0; /*отступы*/
+}
+.container {
+	width: 1172px;
+	margin: 0 auto;
+	display: flex;
+    justify-content: start;
+    background: #dfe0de;
+}
+.wrapper {
+	margin: 15px;
+}
+h1,
+h2,
+h3,	
+p,
+ul,
+li {
+	margin: 5px;
+	font-family: 'Montserrat', sans-serif;
+}
+div,
+p,
+form,
+span,
+a,
+ul,
+li {
+	box-sizing: border-box;
+}
+figure {
+	margin: 0;
+	padding: 0;
+}
+.contacts_list {
+	 list-style-type: circle;
+}
+.contacts {
+	margin-top: 20px;
+}
+.skills {
+	width: 200px;
+	margin: 0;
+/*	display: flex;
+    justify-content: ;*/
+    background: #999;
+}
+.experience {
+	margin-top: 20px;
+	margin: 15px;
+	/*display: flex;
+    justify-content: start;*/
+}
+.experience-education {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-left: 3px solid #999;
+}
+.about {
+	width: 800px;
+}
+.experience-work {
+	border-left: 3px solid #999;
+}
+.experience-work-item {
+	margin-bottom: 15px;
+}
